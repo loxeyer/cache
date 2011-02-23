@@ -1,7 +1,6 @@
 <?php
 /**
  * Cache Class
- *
  * @author lizhong <lizhong@ifeng.com>
  * @version 0.1
  */
